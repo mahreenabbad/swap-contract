@@ -1,9 +1,5 @@
 ;; Project Lightning Swaps
-;; -----------------------
-;; Fraud proof swaps. This contract transfers STX tokens to user on receipt of a valid
-;; preimage proving payment on Lightning via LSAT protocol. 
-;; The contract also registers the btc address of the user in the case were they
-;; want to start stacking or at least contributing to a delegated stacking pool.
+
 
 ;; Constants
 ;; ---------
